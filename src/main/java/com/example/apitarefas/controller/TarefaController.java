@@ -1,7 +1,7 @@
-package com.exemple.apitarefas.controller;
+package com.example.apitarefas.controller;
 
-import com.exemple.apitarefas.model.Tarefa;
-import com.exemple.apitarefas.repository.TarefaRepository;
+import com.example.apitarefas.model.Tarefa;
+import com.example.apitarefas.repository.TarefaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

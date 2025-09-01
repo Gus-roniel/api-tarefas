@@ -1,4 +1,4 @@
-package com.example.api_tarefas;
+package com.example.apitarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

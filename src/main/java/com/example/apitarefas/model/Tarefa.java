@@ -1,4 +1,4 @@
-package com.exemple.apitarefas.model;
+package com.example.apitarefas.model;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
