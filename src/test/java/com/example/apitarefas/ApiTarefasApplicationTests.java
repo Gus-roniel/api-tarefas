@@ -1,4 +1,4 @@
-package com.example.api_tarefas;
+package com.example.apitarefas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
